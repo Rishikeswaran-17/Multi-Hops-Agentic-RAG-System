@@ -58,7 +58,8 @@ st.markdown(
 if "rag_thread_id" not in st.session_state:
     st.session_state.rag_thread_id = f"final-rag-{uuid4().hex}"
 
-# Title
+# Sample Title 
+# Add The title as per your Domain Project
 st.title("🔍 RAG System - Motor Insurance Agent ")
 
 # Question input
