@@ -60,7 +60,7 @@ if "rag_thread_id" not in st.session_state:
 
 # Sample Title 
 # Add The title as per your Domain Project
-st.title("🔍 RAG System - Googles ADK Vibe coding")
+st.title("🔍 Multi Hops Agentic RAG System ")
 
 # Question input
 question = st.text_area(
