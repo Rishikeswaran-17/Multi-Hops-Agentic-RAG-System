@@ -224,7 +224,7 @@ Instructions:
 - Answer only from the context chunks do not give your own answer and If context is insufficient, say you don't know. 
 - If multiple chunks support the same fact, prefer the clearest one.
 - Quote short phrases sparingly.
-- End your answer with a short "Sources:" list [page no] form.
+- End your answer with a book name "Sources:" list [page no] form.
 - Based on the question and context if possible find the discrepancy among it by deeply understand the entire context ONLY IF THE QUESTION IS RELATES TO TRADE FINANCE DISCREPANCY FINDING.
 """
 

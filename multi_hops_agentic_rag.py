@@ -45,9 +45,9 @@ from multi_hops_prompts import (
     USER_PROMPT
 )
 
-from prompts import (
-    SYSTEM_PROMPT
-)
+# from prompts import (
+#     SYSTEM_PROMPT
+# )
 
 # -----------------------------------------------------------------------------
 # Enhanced State Schema
@@ -598,7 +598,7 @@ class EnhancedRAGPipeline:
             "question": question,
             "answer": answer,
             "context": context,
-            "system_prompt":SYSTEM_PROMPT,
+            # "system_prompt":SYSTEM_PROMPT,
         })
         print("************************************************************************************************")
         print("response :::: ",response)
